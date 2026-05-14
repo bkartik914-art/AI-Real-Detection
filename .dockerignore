@@ -1,0 +1,22 @@
+.git
+.gitignore
+**/__pycache__
+**/.pytest_cache
+**/.mypy_cache
+**/.ruff_cache
+**/.venv
+**/node_modules
+frontend/.next
+external_eval
+external_eval_ai
+genimage
+before new tuning
+*.pth
+*.ckpt
+*.onnx
+*.zip
+*.tar
+*.tar.gz
+*.7z
+*.mp4
+*.mov
