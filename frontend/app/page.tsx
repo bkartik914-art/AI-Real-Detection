@@ -235,9 +235,7 @@ export default function Home() {
               Upload an image and check whether it is AI generated.
             </h1>
           </div>
-          <div className="rounded-full border border-neutral-200 bg-white px-4 py-2 text-sm text-neutral-600 shadow-sm">
-            Backend: <span className="font-medium text-neutral-900">{API_BASE_URL}</span>
-          </div>
+
         </header>
 
         <div className="grid flex-1 gap-6 py-6 lg:grid-cols-[minmax(0,1.08fr)_minmax(340px,0.92fr)]">
